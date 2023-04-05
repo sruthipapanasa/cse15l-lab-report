@@ -30,8 +30,13 @@ Examples of Commands: <br>
 - ls -lat
 - ls -a
 - cp /home/linux/ieng6/cs15lsp23/public/hello.txt ~/
-- cat /home/linux/ieng6/cs15lsp23/public/hello.txt
+- cat /home/linux/ieng6/cs15lsp23/public/hello.txt <br>
 Here is an example output after running some commands: <br>
+![command](commands.png) <br>
+
+# Coongrats you're done logging into ieng6!
+
+
 
 
 

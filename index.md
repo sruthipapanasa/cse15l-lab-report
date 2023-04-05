@@ -22,6 +22,18 @@ Wonderful! You've successfully installed and opened VSCode.
 If all was done successfully you should see the below image in your terminal: <br>
 ![remote](remote.png) <br>
 
+## Trying Commands
+1. After you have successfully completed the above step, you can start running commands in the terminal. <br> 
+Examples of Commands: <br>
+- cd ~
+- cd
+- ls -lat
+- ls -a
+- cp /home/linux/ieng6/cs15lsp23/public/hello.txt ~/
+- cat /home/linux/ieng6/cs15lsp23/public/hello.txt
+Here is an example output after running some commands: <br>
+
+
 
 
 

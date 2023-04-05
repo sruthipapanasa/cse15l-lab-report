@@ -7,9 +7,10 @@ Steps: <br>
 - Remotely Connecting
 - Trying Commands
 
-## Intalling VSCode
+## Installing VSCode
 Navigate to https://code.visualstudio.com/ and download the VSCode specific to your operating system. <br>
 After downloading VSCode and opeining it, it should look like the image below. <br>
+
 
 
 

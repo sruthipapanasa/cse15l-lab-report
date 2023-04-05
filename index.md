@@ -18,8 +18,9 @@ Wonderful! You've successfully installed and opened VSCode.
 ## Remotely Connecting
 1. Now open up a new terminal in VSCode. <br>
 2. In the terminal paste this command: ssh cs15lsp23qh@ieng6.ucsd.edu <br>
-3. After pasting this command you will be prompted to enter a password where you will enter the password you have set for the account. <br>
+3. After pasting this command you will be prompted to enter a password where you will enter the password you have set for the account. <br> <br>
 If all was done successfully you should see the below image in your terminal: <br>
+![remote](remote.png) <br>
 
 
 
